@@ -18,7 +18,7 @@ There are several groups of icons:
 
 ## Installation
 
-1) Download the latest release of this project.
+1) Download the latest [release](https://github.com/itschleemilch/bigblue-design-icons/archive/1.0.0.zip) of bigblue-design-icons.
 2) In the Assets-View, click the top burger icon. Then select "Import Assets" and open bigblue-design-icons.afassets.
 
 ## Known issues
