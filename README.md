@@ -6,15 +6,15 @@ The IBM Design Language Icons for Affinity Designer. Based on the v2.1.4 release
 
 For a quick overview see [IBM Design > Icon library](https://ibm-design-language.eu-de.mybluemix.net/design/language/resources/icon-library/).
 
-The icons were created at five different sizes (16x16, 24x24, 32x32, 64x64 and 128x128).
+Most icons were created at five different sizes (16x16, 24x24, 32x32, 64x64 and 128x128).
 
 The library in action:
 
-https://raw.githubusercontent.com/itschleemilch/bigblue-design-icons/master/assets/examples.jpg
+![Some icons of the library](https://raw.githubusercontent.com/itschleemilch/bigblue-design-icons/master/assets/examples.jpg)
 
 There are several groups of icons:
 
-[List of icon groups](https://raw.githubusercontent.com/itschleemilch/bigblue-design-icons/master/assets/ad_assets_dark.jpg)
+![List of icon groups](https://raw.githubusercontent.com/itschleemilch/bigblue-design-icons/master/assets/ad_assets_dark.jpg)
 
 ## Installation
 
@@ -26,8 +26,7 @@ There are several groups of icons:
 - The object-based icons are not fully imported. Sizes 24, 64 and 128 were not imported yet.
 - Some icons are hard to see in Affinity Designer dark mode.
 
-(Dark mode)[https://raw.githubusercontent.com/itschleemilch/bigblue-design-icons/master/assets/ad_assets_dark.jpg]
-(Light mode)[https://raw.githubusercontent.com/itschleemilch/bigblue-design-icons/master/assets/ad_assets_light.jpg]
+![Dark mode](https://raw.githubusercontent.com/itschleemilch/bigblue-design-icons/master/assets/ad_assets_dark.jpg) ![Light mode](https://raw.githubusercontent.com/itschleemilch/bigblue-design-icons/master/assets/ad_assets_light.jpg)
 
 ## License
 
